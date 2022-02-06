@@ -1,0 +1,22 @@
+
+			      				 =============================================
+			      	 			 ||		   HOW TO PLAY		    ||	
+			      	 			 ||		       ***		    ||
+			     	 			 ||		   S U D O K U		    ||	
+			      				 =============================================
+
+     				***********************************************************************************************
+    				*     	   										      *
+     				*     Berikut merupakan tutorial untuk memulai permainan Sudoku:			      *
+     				*  -> Pilih menu "Play" pada tampilan Main Menu dengan klik ENTER pada keyboard.	      *
+     				*  -> Pada tampilan Menu Difficulty, pilih salah satu dari 4 level permainan 		      *
+				*     untuk menentukan kesulitan permainan.	      					      *
+     				*  -> Setelah memilih level, maka permainan akan dimulai. 			              *
+     				*										              *
+     				*     Dalam program sudoku ini terdapat beberapa aturan bermain, diantaranya sebagai berikut: *
+     				*  -> Anda harus memasukkan angka yang berbeda dalam satu kotak.			      *
+     				*  -> Selain itu, anda juga harus memasukkan angka yang berbeda berdasarkan garis vertikal    *
+     				*     dan horizontal jika ditarik dari kolom yang kosong.			    	      *
+     				*  -> Anda harus mengisi keseluruhan kolom yang kosong untuk menang.			      *
+    				*											      *
+     				***********************************************************************************************

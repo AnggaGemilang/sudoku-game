@@ -1,0 +1,22 @@
+
+			      				 =============================================
+			      				 ||		     ABOUT		    ||	
+			      				 ||		      ***		    ||
+			    				 ||		  S U D O K U		    ||	
+			    				 =============================================
+
+
+				Program Sudoku merupakan program untuk simulasi permainan Sudoku. Permainan Sudoku adalah permainan 
+			teka-teki logika angka yang dapat dimainkan semua orang yang sudah bisa berhitung dari 1 sampai 9. Dimana ada 9 x 9 grid 
+				yang dibagi lagi menjadi 9 subgrid yang berisi 3 x 3 kotak. Pada 9 x 9 kotak tersebut diisikan beberapa 
+					angka secara acak, yang nantinya pemain diminta mengisi semua kotak yang belum terisi angka. 
+						Pada program ini terbagi kedalam 4 level, yaitu beginner, easy 
+									medium, dan hard.
+							_______________________________________________
+
+								      Pengembang Aplikasi :
+								    Angga Gemilang  201511036
+							       Muhammad Akbar Alfarisi  201511049
+								   Restu Triwahyuny  201511057
+
+			
